@@ -4,7 +4,7 @@ This project is aims at predicting the total expenditure for an event based on t
 
 ## Overview
 
-The Expenditure Reduction Predictor utilizes a machine learning model trained on historical data to predict the total expenditure for an event. It takes into account the initial budget and the prices provided by vendors in different categories such as decor, bakery, catering, and music.
+The Expenditure Reduction Predictor utilizes a machine learning model trained on historical data to predict the total expenditure for an event. It takes into account the initial budget and the prices provided by vendors in different categories such as decor, bakery, catering, and music. The model can then be called to be used in the function for calculating the amounts.
 
 If the predicted total expenditure exceeds the initial budget, the system identifies areas where expenditure can be reduced by suggesting ideal rates for each vendor category.
 
